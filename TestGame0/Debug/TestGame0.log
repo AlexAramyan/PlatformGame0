@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\lazer.hpp(61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\lazer.hpp(62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\main.cpp(90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\main.cpp(91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  TestGame0.vcxproj -> C:\Users\zigzag\Desktop\Store\important_files\SFML\Serozh\TestGame0\Debug\TestGame0.exe
